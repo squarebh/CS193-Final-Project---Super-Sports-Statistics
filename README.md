@@ -14,9 +14,7 @@ I am going to build a website that allows users to find any players statistics i
 
 ## Tech Stack
 
-- **Language:** Bash / Java / etc.
-- **Libraries:** any external dependencies
-- **External tools:** cron, curl, APIs, etc.
+I am going to be writing in mostly java. I will be using the HttpClient library, the Jackson processing library, JUnit, standard java libraries, and exception imports. For the MVP, I will be storing data in a JSON file. For external sources, I will be using ESPN's public JSON endpoints accessed through HTTPS with HttpClient GET requests.
 
 ## Setup
 
