@@ -20,11 +20,10 @@ I am going to be writing in mostly java. I will be using the HttpClient library,
 
 Features you haven't built yet but plan to
 
--Support sports like NHL and WNBA
--Filtering for players based off of jersey numbers
--Add statistics for overall teams, not just players - like team totals, total shots, etc.
--Pulling statistics from other websites, like Yahoo Sports, Fox Sports, and CBS Sports (3.0+?)
-
+-Support sports like NHL and WNBA\
+-Filtering for players based off of jersey numbers\
+-Add statistics for overall teams, not just players - like team totals, total shots, etc.\
+-Pulling statistics from other websites, like Yahoo Sports, Fox Sports, and CBS Sports (3.0+?)\
 
 ## Author
 
