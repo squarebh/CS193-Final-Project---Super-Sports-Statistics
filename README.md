@@ -45,5 +45,5 @@ Features you haven't built yet but plan to (pull these from your
 
 ## Author
 
-Your name, a link to your GitHub.
+Matthew Cheng
 
