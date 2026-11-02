@@ -4,8 +4,7 @@ Super Sports Statistics provides a free way for you to find the statistics of sp
 
 ## The Problem
 
-2–3 sentences on the problem you're solving. Why did you build this?
-(This is where you drop your HW7 Part 1.1 problem statement.)
+For me, watching sports is more than just my team winning; instead, I love analyzing various statistics and play calls / types. However, many of the sites online that provide in-depth statistics are usually paywalled, and this hinders me from enjoying my hobby as it is much harder to analyze statistics. This is why I want to make a site that allows me to search any player in any sport and provide statistics based off of specific filters.
 
 ## How It Works
 
