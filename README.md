@@ -16,6 +16,11 @@ I am going to build a website that allows users to find any players statistics i
 
 I am going to be writing in mostly java. I will be using the HttpClient library, the Jackson processing library, JUnit, standard java libraries, and exception imports. For the MVP, I will be storing data in a JSON file. For external sources, I will be using ESPN's public JSON endpoints accessed through HTTPS with HttpClient GET requests.
 
+## MVP Scope
+-Support at least NBA, NFL, and MLB\
+-Support searching for a specific player’s stats\
+-Support all statistics which are provided by the ESPN tracked stats for all supported sports
+
 ## Roadmap
 
 Features you haven't built yet but plan to
@@ -23,7 +28,7 @@ Features you haven't built yet but plan to
 -Support sports like NHL and WNBA\
 -Filtering for players based off of jersey numbers\
 -Add statistics for overall teams, not just players - like team totals, total shots, etc.\
--Pulling statistics from other websites, like Yahoo Sports, Fox Sports, and CBS Sports (3.0+?)\
+-Pulling statistics from other websites, like Yahoo Sports, Fox Sports, and CBS Sports (3.0+?)
 
 ## Author
 
