@@ -10,8 +10,6 @@ For me, watching sports is more than just my team winning; instead, I love analy
 
 I am going to build a website that allows users to find any players statistics in any sport supported by the website. They can also filter each players statistics for specific numbers and see if their recent statistics are over or under that number.
 
-![System diagram](docs/Super Sports Statistics System Diagram.png)
-
 ## Tech Stack
 
 I am going to be writing in mostly java. I will be using the HttpClient library, the Jackson processing library, JUnit, standard java libraries, and exception imports. For the MVP, I will be storing data in a JSON file. For external sources, I will be using ESPN's public JSON endpoints accessed through HTTPS with HttpClient GET requests.
