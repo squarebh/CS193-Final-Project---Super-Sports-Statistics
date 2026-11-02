@@ -8,10 +8,9 @@ For me, watching sports is more than just my team winning; instead, I love analy
 
 ## How It Works
 
-A paragraph or a few bullets explaining what the software does at a
-high level. If you have a diagram, embed it here:
+I am going to build a website that allows users to find any players statistics in any sport supported by the website. They can also filter each players statistics for specific numbers and see if their recent statistics are over or under that number.
 
-![System diagram](docs/diagram.png)
+![System diagram](docs/Super Sports Statistics System Diagram.png)
 
 ## Tech Stack
 
